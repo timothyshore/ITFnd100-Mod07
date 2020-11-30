@@ -114,10 +114,10 @@ except ValueError as e:
 ![Figure 7.2:  Binary file saved from PyCharm in a Notepad++ file](https://github.com/timothyshore/ITFnd100-Mod07/blob/main/docs/PyCharmBinaryFile.png "Figure 7.2:  Binary file saved from PyCharm in a Notepad++ file")
 *Figure 7.2:  Binary file saved from PyCharm in a Notepad++ file*
 
-![Figure 7.3:  Running the Program in a Command Line Prompt Window](https://github.com/timothyshore/ITFnd100-Mod07/blob/main/docs/CommandRun.png "Figure 7.3: Running the Program in a Command Line Prompt Window")
+![Figure 7.3:  Running the Program in a Command Line Prompt Window](https://github.com/timothyshore/ITFnd100-Mod07/blob/main/docs/CommandRun.png "Figure 7.3: Running the Program in a Command Line Prompt Window")  
 *Figure 7.3:  Running the Program in a Command Line Prompt Window*
 
-![Figure 7.4:  Binary File saved from Command Line Prompt in a Notepad++ File](https://github.com/timothyshore/ITFnd100-Mod07/blob/main/docs/CommandBinaryFile.png "Figure 7.4:  Binary File saved from Command Line Prompt in a Notepad++ File")
+![Figure 7.4:  Binary File saved from Command Line Prompt in a Notepad++ File](https://github.com/timothyshore/ITFnd100-Mod07/blob/main/docs/CommandBinaryFile.png "Figure 7.4:  Binary File saved from Command Line Prompt in a Notepad++ File")  
 *Figure 7.4:  Binary File saved from Command Line Prompt in a Notepad++ File*
 
 ## Summary
