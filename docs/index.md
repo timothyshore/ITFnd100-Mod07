@@ -108,3 +108,5 @@ except ValueError as e:
     print(e)
 ```
 
+![Figure 7.1:  Running the code in PyCharm](https://github.com/timothyshore/ITFnd100-Mod07/blob/main/docs/PyCharmRun.png "Figure 7.1:  Running the code in PyCharm")####
+*Figure 7.1:  Running the code in PyCharm*
