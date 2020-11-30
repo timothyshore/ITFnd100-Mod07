@@ -108,5 +108,19 @@ except ValueError as e:
     print(e)
 ```
 
-![Figure 7.1:  Running the code in PyCharm](https://github.com/timothyshore/ITFnd100-Mod07/blob/main/docs/PyCharmRun.png "Figure 7.1:  Running the code in PyCharm")####
+![Figure 7.1:  Running the code in PyCharm](https://github.com/timothyshore/ITFnd100-Mod07/blob/main/docs/PyCharmRun.png "Figure 7.1:  Running the code in PyCharm")
 *Figure 7.1:  Running the code in PyCharm*
+
+![Figure 7.2:  Binary file saved from PyCharm in a Notepad++ file](https://github.com/timothyshore/ITFnd100-Mod07/blob/main/docs/PyCharmBinaryFile.png Figure 7.2:  Binary file saved from PyCharm in a Notepad++ file")
+*Figure 7.2:  Binary file saved from PyCharm in a Notepad++ file*
+
+![Figure 7.3:  Running the Program in a Command Line Prompt Window](https://github.com/timothyshore/ITFnd100-Mod07/blob/main/docs/CommandRun.png "Figure 7.3: Running the Program in a Command Line Prompt Window")
+*Figure 7.3:  Running the Program in a Command Line Prompt Window*
+
+![Figure 7.4:  Binary File saved from Command Line Prompt in a Notepad++ File](https://github.com/timothyshore/ITFnd100-Mod07/blob/main/docs/CommandBinaryFile.png "Figure 7.4:  Binary File saved from Command Line Prompt in a Notepad++ File")
+*Figure 7.4:  Binary File saved from Command Line Prompt in a Notepad++ File*
+
+## Summary
+The program that I created to illustrate the Pickle and Structured Error Handling were rather small.  But when considering scripting much larger files, these tools will be invaluable when imagining the algorithms and then coding the files for use.  Pickling for storing and retrieving data and Structured Error Handling to anticipate errors that may occur when a user interacts with the program.
+
+
